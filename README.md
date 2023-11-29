@@ -1,3 +1,3 @@
 # Edmonton-stake-map
 
-link to my app - https://edmonton-stake-map-zclddswj8vgmrfegybxbwn.streamlit.app/
+link to my app - https://stake-map-taulbr4pkgyhxtkc9p3u9t.streamlit.app/ 
